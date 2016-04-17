@@ -1,0 +1,19 @@
+{
+  "name": "backgammonchampion",
+  "version": "1.0.0",
+  "description": "backgammonchampion package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bofalck/backgammonchampion.git"
+  },
+  "author": "Bobby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bofalck/backgammonchampion/issues"
+  },
+  "homepage": "https://github.com/bofalck/backgammonchampion#readme"
+}
